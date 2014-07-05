@@ -1,0 +1,33 @@
+{
+  "name": "knockout-filters-date",
+  "version": "0.1.0",
+  "authors": [
+    "bestguy"
+  ],
+  "description": "Knockout 3 and Knockout.Punches handlebars filter for date formatting",
+  "homepage": "https://github.com/bestguy/knockout-filter-date",
+  "main": "date-filter.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "moment",
+    "filter",
+    "knockout",
+    "punches"
+  ],
+  "license": "MIT",
+  "dependencies": {
+     "jquery": "^2.0.0",
+     "knockout": "^3.0.0",
+     "knockout.punches": "^0.3.0",
+     "moment": "^2.7.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
