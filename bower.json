@@ -24,7 +24,7 @@
      "moment": "^2.7.0"
   },
   "ignore": [
-    "**/.*",
+    "Gruntfile.js",
     "node_modules",
     "bower_components",
     "test"
