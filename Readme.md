@@ -49,8 +49,6 @@ In either case, you to enable handlebars processing via Knockout.Punches:
     ko.punches.attributeInterpolationMarkup.enable();
 
 
-
-
 Then in your view, you can display a formatted date in text or attributes 
 
     {{ yourDate | date: 'dateFormat' }}
