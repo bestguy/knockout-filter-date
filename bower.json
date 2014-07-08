@@ -3,7 +3,7 @@
   "version": "0.1.4",
   "description": "Knockout 3 and Knockout.Punches handlebars filter for date formatting",
   "homepage": "https://github.com/bestguy/knockout-filter-date",
-  "main": "date-filter.js",
+  "main": "date_filter.js",
   "moduleType": [
     "amd",
     "globals",
