@@ -1,6 +1,6 @@
 {
   "name": "knockout-filter-date",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "description": "Knockout 3 and Knockout.Punches handlebars filter for date formatting",
   "homepage": "https://github.com/bestguy/knockout-filter-date",
   "main": "date_filter.js",
